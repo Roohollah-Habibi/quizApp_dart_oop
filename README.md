@@ -1,1 +1,1 @@
-# quizApp_dart_oop
+a very simple quiz app using dart 
